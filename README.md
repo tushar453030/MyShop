@@ -31,7 +31,7 @@ User can add products to its cart and total displayed realtime the user updates 
 
 # Profile Details Update
 
-User can now its profile details like Name,email,password 
+User can now update its profile details like Name,email,password 
 
 ![profileupdate and password](https://user-images.githubusercontent.com/93340408/205701416-9ecd9cae-30eb-4431-9431-133208c96c70.png)
 
