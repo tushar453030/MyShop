@@ -6,20 +6,23 @@ Developing a Ecommerce Website using MERN stack.
 
 # Home page
 Done with the home page with products as displayed 
-![1](https://user-images.githubusercontent.com/93340408/205699880-2029bfc5-23f4-4cf5-ae21-53bf472ba8b1.png)
+
+![1](https://user-images.githubusercontent.com/93340408/213768016-e40eb249-8fe9-4223-8049-f2c27e4cfbc7.png)
 
 # Sign up Page
 Finished with Signing up for new users 
 
+![image](https://user-images.githubusercontent.com/93340408/213769295-4aa0c2a5-0dca-4e5d-a1f8-22faa512f195.png)
 
-![sign up](https://user-images.githubusercontent.com/93340408/205701103-1f920e2a-9d48-4030-9176-0867ff079b63.png)
+
 
 # Login Screen and Logout 
 
 
 Done with Login screen user can Sign in and Log out.
 
-![sign in](https://user-images.githubusercontent.com/93340408/205700256-2816a704-b42c-4f05-83d6-1970c5beb999.png)
+![3](https://user-images.githubusercontent.com/93340408/213770247-b72153e4-bfb4-4d2c-9482-ed57fd101f06.png)
+
 
 
 # Product Details and Cart functionalities 
