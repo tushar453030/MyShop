@@ -29,17 +29,18 @@ Done with Login screen user can Sign in and Log out.
 
 User can add products to its cart and total displayed realtime the user updates its cart product. User can change the Quantity in Cart as well before doing the payment.
 
-![Cart](https://user-images.githubusercontent.com/93340408/205700699-63549962-24a5-4e07-8b9c-b068199f136b.png)
+![image](https://user-images.githubusercontent.com/93340408/214269431-fab9baf1-a3e1-4603-b524-5b29549d7750.png)
+
+
+![image](https://user-images.githubusercontent.com/93340408/214269579-6a4ba9cf-13d6-4e81-a60e-4d3706f45839.png)
+
 
 
 # Profile Details Update
 
 User can now update its profile details like Name,email,password 
 
-![profileupdate and password](https://user-images.githubusercontent.com/93340408/205701416-9ecd9cae-30eb-4431-9431-133208c96c70.png)
+![image](https://user-images.githubusercontent.com/93340408/214269726-ba6a71cd-e877-4490-aee8-884fd8e9e545.png)
 
-# Things left to do 
-Payment checkout Process 
-Admin Screen
-Product Review and Search 
-Then the Deployment 
+
+#To Run the project download the code and do npm run dev
